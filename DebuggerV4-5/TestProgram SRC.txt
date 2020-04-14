@@ -1,0 +1,5 @@
+  B Go
+Minus1 DCD #-1
+Go
+  LDR R0, [ Minus1 ]
+  DCD #0xFFFFFFFF    ; breakpoint instruction

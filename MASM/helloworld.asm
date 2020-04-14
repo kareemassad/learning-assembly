@@ -1,3 +1,4 @@
+;HELLO WORLD IN MASM
 .386
 .model flat, stdcall
 option casemap :none
